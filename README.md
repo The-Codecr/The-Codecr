@@ -2,6 +2,8 @@
 
 <h3 align = "left" > Software Engineer Student </h3 >
 
+![https://github.com/The-Codecr](https://github.com/The-Codecr/The-Codecr/blob/main/Banner%20Profile.png)
+
 <p align ="center">
  I am  student of the Systems Engineering career, so in this repository you can find my professional portfolio and various projects in which I find myself working.
 </p>
