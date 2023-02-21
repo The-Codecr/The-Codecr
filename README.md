@@ -11,8 +11,8 @@
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
 <p align ="center">
-Hi,is a plesaure for me you stay here! <br><br>
-This is my professional repository here you can search my most recent proyects and contributions to the community
+Welcome a plesaure for me you stay here in my GitHub Page! <br><br> 
+I'm Duvan Vasquez and now Software Engineer,  I learn new things about programming and teach these things to others .This is my professional repository here you can search my most recent proyects and contributions to the community
 </p>
 
 ### Technologies:
