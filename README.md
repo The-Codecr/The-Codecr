@@ -10,9 +10,20 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
+<p align ="left">
+I'm Duván Vásquez , Software Engineer from San Jóse ,Costa Rica, I working in software development and use diferents programming lenguages. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
+  
+ This is my professional repository here you can search my most recent proyects and contributions to the community.
+</p>
+
+
+### What i'm doing? 
+
 <p align ="center">
-Welcome a plesaure for me you stay here in my GitHub Page! <br><br> 
-I'm Duvan Vasquez and now Software Engineer,  I learn new things about programming and teach these things to others .This is my professional repository here you can search my most recent proyects and contributions to the community
+ ### Web Desing 
+  The most modern and high-quality design made at a professional level.
+###  Web Development 
+   High-quality development of sites at the professional level
 </p>
 
 ### Technologies:
