@@ -1,5 +1,5 @@
 <h1 align = "left" > Hello World! ,  I´m  TheCode </h1 > 
-<h3 align = "left" > Programmer | UI & UX Designer |   Software Engineer </h3 > 
+<h3 align = "left" > Software Engineer | Programmer  </h3 > 
 
 ![](https://komarev.com/ghpvc/?username=The-Codecr&style=flat-square)
 
