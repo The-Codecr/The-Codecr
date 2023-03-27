@@ -25,10 +25,10 @@ Here you can search my most recent proyects and contributions to the community.
 
 <p align ="center">
 
-  <b>Web Desing</b>
+  <b>Web Desing</b> <br>
   The most modern and high-quality design made at a professional level.
-###  Web Development 
-   High-quality development of sites at the professional level
+<b> Web Development </b> <br>
+   High-quality development of sites at the professional level.
 </p>
 
 ### Technologies:
