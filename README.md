@@ -49,7 +49,8 @@ Here you can search my most recent proyects and contributions to the community.
 ### Social Media
 
 [![Instagram](https://img.shields.io/badge/Instagram-@TheCodecr-545BCF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/the.codecr)
-
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-545BCF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dvlCode)
+[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/duvan.vasquez.773/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Duvan_Vasquez-545BCF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/duv%C3%A1n-v%C3%A1squez/)
 
 
