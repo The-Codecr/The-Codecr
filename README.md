@@ -47,7 +47,9 @@ Here you can search my most recent proyects and contributions to the community.
 
 
 ### Social Media
-[![LinkedIn](https://img.shields.io/badge/?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/duv%C3%A1n-v%C3%A1squez/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/duv%C3%A1n-v%C3%A1squez/)
+
 
 
 
