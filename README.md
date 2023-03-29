@@ -5,17 +5,13 @@
 ![https://github.com/The-Codecr](https://github.com/The-Codecr/The-Codecr/blob/main/Banner%20Profile.png)
 
 ### About Me
-
-<p align ="center">
-
 I'm Duván Vásquez , Software Engineer from San Jóse ,Costa Rica, I working in software development and use diferents programming lenguages. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My i'm is to bring across your message and identity in the most creative way.
   
 Here you can search my most recent proyects and contributions to the community.
-</p>
+
 ### What i'm doing? 
 
 <p align ="center">
-  
   <b>Web Desing</b> <br>
   The most modern and high-quality design made at a professional level.
 
@@ -24,8 +20,10 @@ Here you can search my most recent proyects and contributions to the community.
 </p>
 
 ### Technologies:
+ <b>Backend</b><br>
+ [![Python](https://img.shields.io/badge/Python-545BCF?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-<h4>BackEnd:</h4>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,dotnet,cs,js,git,github,postman,)" />
