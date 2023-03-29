@@ -20,17 +20,14 @@ Here you can search my most recent proyects and contributions to the community.
 </p>
 
 ### Technologies:
- <b>Backend</b><br>
- [![Python](https://img.shields.io/badge/Python-545BCF?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
- [![.Net](https://img.shields.io/badge/Python-545BCF?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
+ <b>BackEnd</b><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,dotnet,cs,js,git,github,postman,)" />
   </a>
 </p>
 
-<h4>FrontEnd:</h4>
+ <b>FrontEnd</b><br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,react,)" />
