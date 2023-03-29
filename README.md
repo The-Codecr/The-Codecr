@@ -1,5 +1,6 @@
 <h1 align = "left" > Hello World! ,  I´m  TheCode 👋 </h1 > 
-## Software Engineer & Programmer  
+
+### Software Engineer & Programmer  
 
 ![https://github.com/The-Codecr](https://github.com/The-Codecr/The-Codecr/blob/main/Banner%20Profile.png)
 
