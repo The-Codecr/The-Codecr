@@ -2,7 +2,7 @@
 
 ### Software Engineer & Programmer  
 
-![https://github.com/The-Codecr](https://github.com/The-Codecr/The-Codecr/Banner_ TheCode.png))
+![](https://github.com/The-Codecr/The-Codecr/blob/b434cd35576196677d70d082f90a93636b79e996/Banner_%20The%20Code.png)
 
 
 ### About Me
