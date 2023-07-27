@@ -51,7 +51,7 @@ Here you can search my most recent proyects and contributions to the community.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Duvan_Vasquez-545BCF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/duv%C3%A1n-v%C3%A1squez/)
 
 
-### My last proyects  
+### My proyects  
 
 
 
