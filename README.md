@@ -39,11 +39,13 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
    Portfolio
   </a>
 
-  | Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Projects   |      Link     |
+|------------|---------------|
+| Portfolio | <a href="https://www.thecodecr.dev">
+   Portfolio
+  </a>  |
+
+
 
 
 
