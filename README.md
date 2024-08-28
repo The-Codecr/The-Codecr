@@ -21,7 +21,7 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
 <h4>Data Bases:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,sql,sqlite,postgres)" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres)" />
   </a>
 </p>
 
