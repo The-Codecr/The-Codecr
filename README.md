@@ -5,16 +5,6 @@
 ### About Me
 Systems Engineer with dynamic software programming focus, eager to excel in IT. Passion for innovation, committed to excellence. Equipped with strong software skills, poised to contribute talent and efficiency to IT projects.
 
-### What i'm doing? 
-
-<p align ="left">
-  <b>Web Desing</b> <br>
-  The most modern and high-quality design made at a professional level.
-
-  <b>Web Development </b> <br>
-   High-quality development of sites at the professional level.
-</p>
-
 ### Technologies:
  <b>BackEnd</b><br>
 <p align="left">
@@ -47,7 +37,6 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
 
 
 ### My proyects  
-  Let's make our projects reality together.
  <a href="https://www.thecodecr.dev">
    Portfolio
   </a>
