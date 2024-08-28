@@ -35,10 +35,6 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
 
 
 ### My proyects  
- <a href="https://www.thecodecr.dev">
-   Portfolio
-  </a>
-
 <table>
   <tr>
     <th>Projects</th>
@@ -55,5 +51,5 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
 
 
  <p align="center">
- Made with ❤ by  Duvan Vasquez 
+ Made with ❤ by  TheCodeCR  
 </p>
