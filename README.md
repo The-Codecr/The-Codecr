@@ -5,7 +5,7 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
 
 ### Technologies:
  <b>BackEnd</b><br>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,nodejs" />
   </a>
@@ -14,14 +14,14 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
  <b>FrontEnd</b><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,react,)" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind)" />
   </a>
 </p>
 
 <h4>Data Bases:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,sql,)" />
+    <img src="https://skillicons.dev/icons?i=mongodb,sql,sqllite,postgres)" />
   </a>
 </p>
 
