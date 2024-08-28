@@ -5,9 +5,9 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
 
 ### Technologies:
  <b>BackEnd</b><br>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,dotnet,cs,js,git,github,postman,)" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,nodejs" />
   </a>
 </p>
 
@@ -45,8 +45,6 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
     <td><a href="https://www.thecodecr.dev">Visit my portfolio</a></td>
   </tr>
 </table>
-
-
 
 
 
