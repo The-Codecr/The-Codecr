@@ -37,7 +37,7 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
 ### My proyects  
 <table>
   <tr>
-    <th>Projects</th>
+    <th>Description</th>
     <th>Links</th>
   </tr>
   <tr>
