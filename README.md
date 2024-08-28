@@ -50,7 +50,7 @@ Here you can search my most recent proyects and contributions to the community.
 
 ### My proyects  
 
- <a href="www.thecodecr.dev">
+ <a href="https://www.thecodecr.dev">
    Portfolio
   </a>
 
