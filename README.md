@@ -7,14 +7,14 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
  <b>BackEnd</b><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,nodejs" />
   </a>
 </p>
 
  <b>FrontEnd</b><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind)" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,ts)" />
   </a>
 </p>
 
