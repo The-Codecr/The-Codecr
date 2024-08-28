@@ -1,8 +1,6 @@
 <h1 align = "left" > Hello World! ,  I´m  TheCode 👋 </h1 > 
 
-### Software Engineer 
-
-### About Me
+### Software Engineer | BackEnd & FrontEnd Developer 
 Systems Engineer with dynamic software programming focus, eager to excel in IT. Passion for innovation, committed to excellence. Equipped with strong software skills, poised to contribute talent and efficiency to IT projects.
 
 ### Technologies:
