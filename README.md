@@ -39,9 +39,9 @@ Systems Engineer with dynamic software programming focus, eager to excel in IT. 
    Portfolio
   </a>
 
-| Projects   |      Link     |
+| Projects   |      Links     |
 |------------|---------------|
-| Portfolio | <a href="https://www.thecodecr.dev">
+ <a href="https://www.thecodecr.dev">
    Portfolio
   </a>  |
 
