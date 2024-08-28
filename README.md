@@ -3,9 +3,7 @@
 ### Software Engineer 
 
 ### About Me
-I'm Duván Vásquez , Software Engineer from San Jóse ,Costa Rica, I working in software development and use diferents programming lenguages. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My i'm is to bring across your message and identity in the most creative way.
-  
-Here you can search my most recent proyects and contributions to the community.
+Systems Engineer with dynamic software programming focus, eager to excel in IT. Passion for innovation, committed to excellence. Equipped with strong software skills, poised to contribute talent and efficiency to IT projects.
 
 ### What i'm doing? 
 
@@ -49,7 +47,7 @@ Here you can search my most recent proyects and contributions to the community.
 
 
 ### My proyects  
-
+  Let's make our projects reality together.
  <a href="https://www.thecodecr.dev">
    Portfolio
   </a>
